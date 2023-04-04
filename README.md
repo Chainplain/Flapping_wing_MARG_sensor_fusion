@@ -9,7 +9,8 @@ You can use following steps to test your own algorithm:
 
 2. load the worldfile, which is already marked.
 
-3. choose the controller of the robot called the Flapper as SimpleFlapGamma_SensorFusion, which is also provided here.
+3. choose the controller of the robot called the Flapper as SimpleFlapGamma_SensorFusion, which is also provided here. 
+This is the controller file, you can rewrite the corresponding classes which are given in other files.
 
 4. If everything is fine, it can be runned right away.
 
