@@ -5,7 +5,7 @@ The sensor_fusion algorithm locates at the FilterLib  file.
 Please find the overall simulations in https://github.com/Chainplain/Flapping_wing_Simu
 
 You can use following steps to test your own algorithm:
-1. Download webots https://cyberbotics.com/, the version used is R2021a, however, we are pretty sure you can run it on any version after that.
+1. Download webots https://cyberbotics.com/, the version we use is R2021a. However, we are pretty sure that you can run it on any version after that.
 
 2. load the worldfile, which is already marked.
 
